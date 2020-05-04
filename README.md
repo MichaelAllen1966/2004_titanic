@@ -9,11 +9,11 @@ To get the correct libraries and versions it is recommended that the provided co
 
 1. Windows -> Open Anaconda prompt. Mac/linux -> Open a terminal
 
-2. Navigate to the BootComp/binder directory
+2. Navigate to the /binder directory
 
 3. Run the following command: conda env create -f environment.yml
 
 This will fetch and install the libraries in a conda environment 'titanic'
 
-4. To activate the bootcomp enviroment run the following command:
-    conda activate rl_examples
+4. To activate the enviroment run the following command:
+    conda activate titanic
