@@ -1,11 +1,15 @@
 # 2004_titanic
 Machine learning classification using the Titanic dataset from Kaggle
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelAllen1966/2004_titanic/master)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelAllen1966/2004_titanic/)
+
+
 ## Set up environment locally
 
 To get the correct libraries and versions it is recommended that the provided conda environment is used. To create and activate the titanic environment:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelAllen1966/2004_titanic/master)
 
 1. Windows -> Open Anaconda prompt. Mac/linux -> Open a terminal
 
